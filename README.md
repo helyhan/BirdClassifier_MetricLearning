@@ -61,3 +61,7 @@ If you prefer to use Google Colab for an easy setup and access to GPU resources:
 1. Upload the BirdSpeciesIdentifier_Notebook.ipynb file to your Google Drive.
 2. Open the notebook in Google Colab.
 3. Run all cells to ensure the environment is set up correctly and dependencies are installed.
+
+## Interesting Read
+Deng, J., Guo, J., Yang, J., Xue, N., Kotsia, I., & Zafeiriou, S. (2022). ArcFace: Additive Angular Margin Loss for Deep Face Recognition. IEEE Transactions on Pattern Analysis and Machine Intelligence, 44(10), 5962–5979. [https://doi.org/10.1109/TPAMI.2021.3087709](https://doi.org/10.1109/TPAMI.2021.3087709)
+
